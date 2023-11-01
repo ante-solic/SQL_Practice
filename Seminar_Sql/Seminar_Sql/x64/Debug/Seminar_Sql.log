@@ -1,0 +1,4 @@
+﻿  Seminar_Sql.cpp
+C:\Users\Ante\Desktop\Seminar_SQL\Seminar_Sql\Seminar_Sql\Seminar_Sql.cpp(90,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ante\Desktop\Seminar_SQL\Seminar_Sql\Seminar_Sql\Seminar_Sql.cpp(95,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Seminar_Sql.vcxproj -> C:\Users\Ante\Desktop\Seminar_SQL\Seminar_Sql\x64\Debug\Seminar_Sql.exe
